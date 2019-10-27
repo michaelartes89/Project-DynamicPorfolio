@@ -1,0 +1,9 @@
+body {
+    background: url("../images/sun-pattern.png");
+}
+.foot {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+  }
