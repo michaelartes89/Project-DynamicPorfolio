@@ -8,6 +8,8 @@ The layout for the pages on this site is built using the Bootstrap grid system
 
 Additional Bootstrap componets used include the Navbar and Cards 
 
-<img src="assets/images/ScreenShot.png" alt="Screnshot" href="https://michaelartes89.github.io/BootcampHW2/">
+<img src="assets/images/ScreenShot.png" alt="Screnshot">
+
+ <a href="https://michaelartes89.github.io/BootcampHW2/">
 
 Enjoy!
